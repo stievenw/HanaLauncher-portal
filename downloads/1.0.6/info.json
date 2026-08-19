@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.6",
+    "date":  "2026-08-19",
+    "patch":  true,
+    "notes":  "v1.0.6: folder instalasi default .minecraft global, data launcher (versions/libraries/assets/runtime) ikut lokasi instalasi, wizard setup standar, uninstall tidak menghapus isi .minecraft",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8408040,
+                                "sha256":  "D84A42736AC16F84B202057C1889A32E6FF076A4B7BA5574C2E459D07E959E59"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8089600,
+                              "sha256":  "71A9023AA866291CD476F80672B04B21C0DBBB3930A15C88DB09310DC4214A56"
+                          }
+              },
+    "tag":  "v1.0.6"
+}
