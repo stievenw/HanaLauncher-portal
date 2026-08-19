@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.5",
+    "date":  "2026-08-19",
+    "patch":  true,
+    "notes":  "Hana Launcher 1.0.5 - pembaruan resmi Hana Launcher.",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8406880,
+                                "sha256":  "3341BAB39D1CD129A7A92D179686D6E66063F09FE3B6787D1399CD92DC880427"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8093696,
+                              "sha256":  "04A8FD52B5D78009574A8614E51AA427B7959E5AA3F92E463D883F94AF7E391C"
+                          }
+              },
+    "tag":  "v1.0.5"
+}
