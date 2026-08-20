@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.8",
+    "date":  "2026-08-20",
+    "patch":  true,
+    "notes":  "v1.0.8: perbesaran 12% hanya untuk font monogram, font sistem ukuran normal",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8408152,
+                                "sha256":  "A3B9361273999CC23ADC0CC15F0C58B9851D084E8012741717120D1D4542836B"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8093696,
+                              "sha256":  "9D5F76C56F8B7A1D630254A03171701B2D7B6F045F4D640E691EC169B5B3CF66"
+                          }
+              },
+    "tag":  "v1.0.8"
+}
