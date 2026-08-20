@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.7",
+    "date":  "2026-08-20",
+    "patch":  true,
+    "notes":  "v1.0.7: font default sistem + teks diperbesar, istilah instansi -\u003e instalasi, Uninstall.exe tampil beda di Task Manager, label aset diperhalus",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8408312,
+                                "sha256":  "FA0AFC6A7D1455978ED0594A779CF440B0089CF824BAF310A4CBD9A5A011AEBA"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8093696,
+                              "sha256":  "F8D7ECB8280CE8A1231A2F0830459F52EDD21169CF4E68D42509331A187497DB"
+                          }
+              },
+    "tag":  "v1.0.7"
+}
