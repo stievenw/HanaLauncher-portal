@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.0.9",
+    "date":  "2026-08-21",
+    "patch":  true,
+    "notes":  "Instance-\u003eInstallation di UI English",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8408016,
+                                "sha256":  "92FF34B3894B5BCBBA3209C7FEF802EB77466108E35C327C1D949FBAA0F07AB9"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8093696,
+                              "sha256":  "C2ADC8E354EB1171F43622FAE5DF993D47DE7AC2E9F7E3D23D372A6EDA43BE99"
+                          }
+              },
+    "tag":  "v1.0.9"
+}
