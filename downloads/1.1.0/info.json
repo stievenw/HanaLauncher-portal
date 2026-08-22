@@ -1,0 +1,19 @@
+﻿{
+    "version":  "1.1.0",
+    "date":  "2026-08-22",
+    "patch":  false,
+    "notes":  "Hana Launcher v1.1.0",
+    "files":  {
+                  "setup":  {
+                                "file":  "HanaLauncherSetup.exe",
+                                "size":  8408320,
+                                "sha256":  "6079C583B32925A2531B9F893B748BE00975FBD63391AFA5A8EB9FCB7082F9B5"
+                            },
+                  "msi":  {
+                              "file":  "HanaLauncher.msi",
+                              "size":  8093696,
+                              "sha256":  "821C4F285EEC85E9F2EECFADBE13E1185687A935FC5E099A86F22A144E513F73"
+                          }
+              },
+    "tag":  "v1.1.0"
+}
